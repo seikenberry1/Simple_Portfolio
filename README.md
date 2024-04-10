@@ -6,7 +6,7 @@ Arizona State University
 
 # Recent Projects
 
-## Potential for High-Resolution Spatial Data to Expedite EPA Assessment of Pesticide Risk to Endangered Species
+### 1. High-Resolution Spatial Data and Pesticide Risk to Endangered Species
 
 Related Publications:
 - Eikenberry, S. E., Iacona, G., Murphy, E. L., Watson, G., & Gerber, L. R. (2024). Identifying opportunities for high resolution pesticide usage data to improve the efficiency of endangered species pesticide risk assessment. Science of The Total Environment, 170743.
