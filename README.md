@@ -4,7 +4,13 @@
 Assistant Clinical Professor, Data Science
 Arizona State University
 
-# Recent Projects
+## Links
+
+GitHub:
+Medium:
+Webpage:
+
+## Recent Projects
 
 ### 1. High-Resolution Spatial Data and Pesticide Risk to Endangered Species
 
