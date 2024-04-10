@@ -1,7 +1,3 @@
-# Steffen Eikenberry
-## Data Science Portfolio
-
-Academic data scientist interested in quantiative epidemiology, environmental data science, and sustainability.
 
 ## Current Position
 
