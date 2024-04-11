@@ -1,14 +1,15 @@
 
 ## Current Position
 
-Assistant Clinical Professor, Data Science
-Arizona State University
+Assistant Clinical Professor, Data Science \
+Arizona State University \
+School of Mathematical and Statistical Sciences
 
 ## Links
 
-- GitHub:
-- Medium:
-- Webpage:
+- GitHub
+- Medium
+- Webpage
 
 ## Recent Projects
 
@@ -30,7 +31,7 @@ Arizona State University
 - Used logistic regression to predict which species ranges outside California most likely to benefit under increased resolution
 - Identified priority states for data collection using iterative procedure
 
-![](https://github.com/seikenberry1/Simple_Portfolio/blob/main/images/Classifier_propargite_animals.png)
-![](https://github.com/seikenberry1/Simple_Portfolio/blob/main/images/Township_CA_animals_plants.png)
-![](https://github.com/seikenberry1/Simple_Portfolio/blob/main/images/Contiguous_US_Predicted_Results.png)
-![](https://github.com/seikenberry1/Simple_Portfolio/blob/main/images/State_Priority_Curve_plants.png)
+![](/images/Classifier_propargite_animals.png)
+![](/images/Township_CA_animals_plants.png)
+![](/images/Contiguous_US_Predicted_Results.png)
+![](/images/State_Priority_Curve_plants.png)
