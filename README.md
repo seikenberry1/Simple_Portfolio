@@ -11,7 +11,7 @@ School of Mathematical and Statistical Sciences
 - Medium
 - Webpage
 
-[Curriculum Vitae](./CV.html).
+[Curriculum Vitae](./CV.md).
 
 ## Recent Projects
 
