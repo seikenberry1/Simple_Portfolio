@@ -31,7 +31,5 @@ School of Mathematical and Statistical Sciences
 - Used logistic regression to predict which species ranges outside California most likely to benefit under increased resolution
 - Identified priority states for data collection using iterative procedure
 
-![](/images/Classifier_propargite_animals.png)
 ![](/images/Township_CA_animals_plants.png)
-![](/images/Contiguous_US_Predicted_Results.png)
 ![](/images/State_Priority_Curve_plants.png)
