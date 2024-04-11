@@ -1,5 +1,6 @@
 title: Steffen Eikenberry
+logo: /images/portfolio_pic2.jpg
 description: Data Science Portfolio
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
