@@ -11,6 +11,8 @@ School of Mathematical and Statistical Sciences
 - Medium
 - Webpage
 
+[Curriculum Vitae](./CV.html).
+
 ## Recent Projects
 
 ### 1. High-Resolution Spatial Data and Pesticide Risk to Endangered Species
