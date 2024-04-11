@@ -14,7 +14,7 @@ Arizona State University
 
 ### 1. High-Resolution Spatial Data and Pesticide Risk to Endangered Species
 
-![](https://github.com/seikenberry1/Simple_Portfolio/blob/main/images/pesticide_graphical_abstract.png)
+![](/images/pesticide_graphical_abstract.png)
 
 #### Related Publications:
 
